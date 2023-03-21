@@ -1,4 +1,4 @@
-# Nerfies
+# OCC-NeRF
 
 This is the repository that contains source code for the project page of [OCC-NeRF](https://freebutuselesssoul.github.io/occ_nerf/).
 
